@@ -23,7 +23,7 @@ Gale is a puzzle platformer in which the player's primary mechanism of movement 
 
 ---
 ## Running the Game Release
-1. Install the official release(v5.1.0 official) from the "Releases" tab
+1. Visit the website https://gdiac.cs.cornell.edu/gdiac/showcase/gallery/gale/
 2. Choose the appropriate download for your operating system (Windows/OS)
 3. Click on Gale file to run!
 
